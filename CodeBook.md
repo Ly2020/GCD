@@ -48,22 +48,22 @@ tBodyGyroJerkMagSTD:     STD of tBodyGyroJerkMag <br>
 fBodyAccMean:            Mean of fBodyAcc <br>
 fBodyAccMeanFreq:        MeanFreq of fBodyAcc <br>
 fBodyAccSTD:             STD of fBodyAcc <br>
-fBodyAccJerkMean:        Mean of fBodyAccJerk
-fBodyAccJerkMeanFreq:    MeanFreq of fBodyAccJerk
-fBodyAccJerkSTD:         STD of fBodyAccJerk
-fBodyGyroMean:           Mean of fBodyGyro
-fBodyGyroMeanFreq:       MeanFreq of fBodyGyro
-fBodyGyroSTD:            STD of fBodyGyro
-fBodyAccMagMean:         Mean of fBodyAccMag
-fBodyAccMagMeanFreq:     MeanFreq of fBodyAccMag
-fBodyAccMagSTD:          STD of fBodyAccMag
-fBodyAccJerkMagMean:     Mean of fBodyAccJerkMag
-fBodyAccJerkMagMeanFreq: MeanFreq of fBodyAccJerkMag
-fBodyAccJerkMagSTD:      STD of fBodyAccJerkMag
-fBodyGyroMagMean:        Mean of fBodyGyroMag
-fBodyGyroMagMeanFreq:    MeanFreq of fBodyGyroMag
-fBodyGyroMagSTD:         ST of fBodyGyroMag
-fBodyGyroJerkMagMean:    Mean of fBodyGyroJerkMag 
-fBodyGyroJerkMagMeanFreq:MeanFreq of fBodyGyroJerkMag 
-fBodyGyroJerkMagSTD:     STD of fBodyGyroJerkMag 
+fBodyAccJerkMean:        Mean of fBodyAccJerk <br>
+fBodyAccJerkMeanFreq:    MeanFreq of fBodyAccJerk <br>
+fBodyAccJerkSTD:         STD of fBodyAccJerk <br>
+fBodyGyroMean:           Mean of fBodyGyro <br>
+fBodyGyroMeanFreq:       MeanFreq of fBodyGyro <br>
+fBodyGyroSTD:            STD of fBodyGyro <br>
+fBodyAccMagMean:         Mean of fBodyAccMag <br>
+fBodyAccMagMeanFreq:     MeanFreq of fBodyAccMag <br>
+fBodyAccMagSTD:          STD of fBodyAccMag <br>
+fBodyAccJerkMagMean:     Mean of fBodyAccJerkMag <br>
+fBodyAccJerkMagMeanFreq: MeanFreq of fBodyAccJerkMag <br>
+fBodyAccJerkMagSTD:      STD of fBodyAccJerkMag <br>
+fBodyGyroMagMean:        Mean of fBodyGyroMag <br>
+fBodyGyroMagMeanFreq:    MeanFreq of fBodyGyroMag <br>
+fBodyGyroMagSTD:         ST of fBodyGyroMag <br>
+fBodyGyroJerkMagMean:    Mean of fBodyGyroJerkMag  <br>
+fBodyGyroJerkMagMeanFreq:MeanFreq of fBodyGyroJerkMag  <br>
+fBodyGyroJerkMagSTD:     STD of fBodyGyroJerkMag  <br>
 
